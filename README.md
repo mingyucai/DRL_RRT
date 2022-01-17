@@ -1,2 +1,2 @@
-# DRL_RRT
-Overcoming Exploeation: Deep Reinforcement Learning with Temporal Logic in Complex and Large-scale Environment
+## Overcoming Exploeation: Deep Reinforcement Learning with Temporal Logic in Complex and Large-scale Environment
+
