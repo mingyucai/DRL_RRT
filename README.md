@@ -1,4 +1,4 @@
-## Overcoming Exploeation: DRL with TL in Complex and Large-scale Environment
+## Overcoming Exploeation: DRL + TL in Complex and Large-Scale Env
 
 Execute the example:
 
